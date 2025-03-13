@@ -5,11 +5,11 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 This repository contains an Exploratory Data Analysis (EDA) of Spotify Data, aimed at uncovering patterns, trends, and insights from music streaming data. Using Python, Pandas, Matplotlib, and Seaborn, this project provides an in-depth look at song characteristics, popularity trends, and genre distributions.
 
 **📌 Objective**
-The goal of this project is to analyze Spotify's dataset to:
-✔ Understand song popularity trends based on audio features.
-✔ Identify correlations between tempo, danceability, energy, and other attributes.
-✔ Explore genre-based differences in song characteristics.
-✔ Visualize key insights using interactive charts and graphs.
+The goal of this project is to analyze Spotify's dataset to:  
+✔ Understand song popularity trends based on audio features.  
+✔ Identify correlations between tempo, danceability, energy, and other attributes.  
+✔ Explore genre-based differences in song characteristics.  
+✔ Visualize key insights using interactive charts and graphs.  
 
 **🚀 Tech Stack & Libraries**
 ✅ Python – Data manipulation & analysis
