@@ -12,26 +12,26 @@ The goal of this project is to analyze Spotify's dataset to:
 ✔ Visualize key insights using interactive charts and graphs.  
 
 **🚀 Tech Stack & Libraries**
-✅ Python – Data manipulation & analysis
-✅ Pandas – Data cleaning & preprocessing
-✅ NumPy – Numerical computations
-✅ Matplotlib & Seaborn – Data visualization
-✅ Plotly – Interactive charts
-✅ Jupyter Notebook – Exploratory analysis environment
+✅ Python – Data manipulation & analysis  
+✅ Pandas – Data cleaning & preprocessing  
+✅ NumPy – Numerical computations  
+✅ Matplotlib & Seaborn – Data visualization  
+✅ Plotly – Interactive charts  
+✅ Jupyter Notebook – Exploratory analysis environment  
 
 **📊 Key Analyses & Insights**
-🔹 Top Trending Songs – Identifying the most popular tracks over time.
-🔹 Audio Feature Correlations – Understanding relationships between tempo, loudness, and danceability.
-🔹 Genre-Based Analysis – Comparing song features across different genres.
-🔹 Popularity vs. Release Year – Analyzing how music trends have evolved.
-🔹 Feature Distributions – Visualizing energy, valence, acousticness, and instrumentalness.
+🔹 Top Trending Songs – Identifying the most popular tracks over time.  
+🔹 Audio Feature Correlations – Understanding relationships between tempo, loudness, and danceability.  
+🔹 Genre-Based Analysis – Comparing song features across different genres.  
+🔹 Popularity vs. Release Year – Analyzing how music trends have evolved.  
+🔹 Feature Distributions – Visualizing energy, valence, acousticness, and instrumentalness.  
 
 
 **📢 Conclusion & Findings**
-✔ Energy and danceability have a strong correlation with song popularity.
-✔ Acoustic tracks tend to have lower popularity in mainstream playlists.
-✔ Pop music dominates the most streamed songs list.
-✔ Music tempo trends have shifted over the years, with faster beats becoming more common.
+✔ Energy and danceability have a strong correlation with song popularity.  
+✔ Acoustic tracks tend to have lower popularity in mainstream playlists.  
+✔ Pop music dominates the most streamed songs list.  
+✔ Music tempo trends have shifted over the years, with faster beats becoming more common.  
 
 🎧 This project provides valuable insights into music trends, listener preferences, and song characteristics using data-driven analysis.
 
